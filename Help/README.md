@@ -6,7 +6,7 @@
  * nano ~/.script_name.sh
 
 ### Add Script: 
- * Run: nano ~/.bashrc
- * Add: soure ~/.script_name.sh
+ 1. Run: nano ~/.bashrc
+ 1. Add: source ~/.script_name.sh
  
  
