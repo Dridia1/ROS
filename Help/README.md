@@ -1,6 +1,6 @@
 # Scripts
 ### Current scripts:
- * **source_files.sh**
+ * **source_files.sh 'workspace'**
  * **workspace_create.sh 'name'**
 
 ### Create new Script:
