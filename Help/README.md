@@ -1,6 +1,7 @@
 # Scripts
 ### Current scripts:
  * **source_files.sh**
+ * **workspace_create <name>**
 
 ### Create new Script:
  1. cd ~ Set dir to home directory
