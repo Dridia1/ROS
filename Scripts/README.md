@@ -1,9 +1,9 @@
 # My quality of life scripts
 
 ## Make script runnable from terminal:
- * gedit ~/.bashrc
- * At the bottom add: source ~/.scriptname.sh
- * Save & restart the terminal window
+ 1. gedit ~/.bashrc
+ 1. At the bottom add: source ~/.scriptname.sh
+ 1. Save & restart the terminal window
 
 ## How to run:
  ### Workspace_create.sh:
