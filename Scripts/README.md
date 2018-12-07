@@ -1,7 +1,7 @@
 # My quality of life scripts
 
 ## Make script runnable from terminal:
- 1. gedit ~/.bashrc
+ 1. Open terminal and run: gedit ~/.bashrc
  1. At the bottom add: source ~/.scriptname.sh
  1. Save & restart the terminal window
 
